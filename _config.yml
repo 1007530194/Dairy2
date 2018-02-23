@@ -8,7 +8,7 @@
 # Site settings
 title: HyG
 brief-intro: Front-end Dev Engineer
-baseurl: "abc1" # the subpath of your site, e.g. /blog
+baseurl: "/abc1" # the subpath of your site, e.g. /blog
 url: "https://1007530194.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
@@ -56,5 +56,5 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 6
