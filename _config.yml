@@ -8,7 +8,7 @@
 # Site settings
 title: 学无止境
 brief-intro: good good study day day up
-baseurl: "/Dairy" # the subpath of your site, e.g. /blog
+baseurl: "/Dairy2" # the subpath of your site, e.g. /blog
 url: "https://1007530194.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title.html
