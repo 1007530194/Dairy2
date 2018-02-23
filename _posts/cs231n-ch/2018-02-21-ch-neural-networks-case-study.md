@@ -1,5 +1,5 @@
 ---
-categories: posts/cs231n-ch
+categories: cs231n-ch
 mathjax: true
 layout: page
 title: neural-networks-case-study

@@ -3,7 +3,7 @@ layout: post
 title: 理解梯度下降
 crawlertitle: "Understand gradient descent"
 summary: "Gradient descent"
-categories: posts/example
+categories: example
 tag: "optimization"
 mathjax: true
 ---

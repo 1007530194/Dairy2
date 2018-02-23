@@ -3,7 +3,7 @@
 layout: post
 title: 为什么以太坊不仅仅是一个加密货币
 tag: Ethereum
-categories: posts/example
+categories: example
 published: true
 
 ---

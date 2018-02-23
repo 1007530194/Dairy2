@@ -1,5 +1,5 @@
 ---
-categories: posts/cs231n-en
+categories: cs231n-en
 mathjax: true
 layout: page
 title: Google Cloud Tutorial Part 2 (with GPUs)

@@ -3,7 +3,7 @@
 layout: post
 title: 偏差与方差
 tag: "machine learning"
-categories: posts/example
+categories: example
 mathjax: true
 published: true
 

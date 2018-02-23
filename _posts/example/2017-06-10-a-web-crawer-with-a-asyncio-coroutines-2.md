@@ -3,7 +3,7 @@
 layout: post
 title: 用异步协程写一个爬虫 (2)
 tag: "crawer"
-categories: posts/example
+categories: example
 mathjax: true
 published: true
 

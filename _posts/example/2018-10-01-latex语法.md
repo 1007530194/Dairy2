@@ -3,7 +3,7 @@
 layout: post
 title: 从零开始 LaTeX 快速入门
 tag: LaTeX
-categories: posts/example
+categories: example
 mathjax: true
 published: true
 

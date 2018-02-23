@@ -3,7 +3,7 @@ layout: post
 title:  "感知器"
 crawlertitle: "Perceptron algorithm"
 summary: "Perceptron algorithm"
-categories: posts/example
+categories: example
 tag: "classification"
 mathjax: true
 ---

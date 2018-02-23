@@ -3,7 +3,7 @@
 layout: post
 title: 简单了解 Tendermint
 tag: "consensus"
-categories: posts/example
+categories: example
 published: true
 
 ---

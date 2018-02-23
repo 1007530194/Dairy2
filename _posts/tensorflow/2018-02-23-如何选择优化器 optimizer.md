@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: posts/tensorflow
+categories: tensorflow
 title: 如何选择优化器 optimizer
 mathjax: true
 ---

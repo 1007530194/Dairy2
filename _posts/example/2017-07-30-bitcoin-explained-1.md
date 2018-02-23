@@ -2,7 +2,7 @@
 layout: post
 title: 用表情符号解释比特币 (1)
 tag: bitcoin
-categories: posts/example
+categories: example
 ---
 
 ![1]({{ site.baseurl }}{{ site.images }}/posts/bitcoin-explained-1.png)
