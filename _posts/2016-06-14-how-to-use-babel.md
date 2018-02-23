@@ -3,6 +3,7 @@ layout: post
 title:  "如何使用 babel"
 categories: JavaScript
 tags:  ES2015 ES6 ES5 babel 
+mathjax: true
 ---
 
 * content
@@ -10,8 +11,12 @@ tags:  ES2015 ES6 ES5 babel
 
 [Babel](https://babeljs.io/) 用于将 ES6 的代码转化为 ES5，使得 ES6 可以在目前的浏览器环境下使用。学习使用 babel 是为了使用 ES2015 做准备。本文将介绍如何使用 babel，以及一些相关的配置。
 
+$x$
+
+$$xsdfa$$
 
 
+dsfasdf
 
 ![](https://babeljs.io/images/logo.svg)
 
